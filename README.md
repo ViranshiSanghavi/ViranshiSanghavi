@@ -1,3 +1,4 @@
+![logo](https://github.com/ViranshiSanghavi/ViranshiSanghavi/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Viranshi Sanghavi</h1>
 <h3 align="center">Building Bricks of Innovation in Every Byte</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
