@@ -3,7 +3,7 @@
 <img src="https://github.com/ViranshiSanghavi/ViranshiSanghavi/blob/main/viranshii.jpg" width="300px" height="250px">
 
 ## 🌐 Socials:
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/viranshi_21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/viranshi-sanghavi-304ab12a0) 
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/viranshi_21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/viranshi-sanghavi-304ab12a0)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Viranshi21)
 
  ## ⚡ About Me
 -  IT student with a passion for software development and a strong foundation in programming and problem-solving.
