@@ -1,8 +1,9 @@
 ![logo](https://github.com/ViranshiSanghavi/ViranshiSanghavi/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Viranshi Sanghavi</h1>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://github.com/ViranshiSanghavi/ViranshiSanghavi/blob/main/Github%20img.gif">
 
-<p align="left"> <img src="https://github.com/ViranshiSanghavi/ViranshiSanghavi/blob/main/Github%20img.gif" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=viranshisanghavi&label=Profile%20views&color=0e75b6&style=flat" alt="viranshisanghavi" /> </p>
+
 
 - 📫 How to reach me **sanghaviviranshi@outlook.com**
 
